@@ -1,19 +1,6 @@
 # ICS3203-CAT2-Assembly--Simiyu-Michael-Wanjala-and-151673-.
 This repository contains four assembly language programs developed for the ICS3203 CAT 2 practical assignment. These programs demonstrate fundamental assembly language concepts, including control flow, array operations, modular programming, and hardware simulation. Each task highlights specific assembly techniques, providing a deeper understanding of low-level programming.
 
----
-
-## Repository Structure
-ICS3203-CAT2-Assembly--<Simiyu-Michael-Wanjala-151673>
-│
-├── README.md
-├── task1.asm  # Control Flow and Conditional Logic
-├── task2.asm  # Array Manipulation with Looping and Reversal
-├── task3.asm  # Modular Program with Subroutines for Factorial Calculation
-└── task4.asm  # Data Monitoring and Control Using Port-Based Simulation
-
-
----
 
 ## Task Descriptions
 
